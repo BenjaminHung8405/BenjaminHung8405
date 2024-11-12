@@ -45,8 +45,7 @@ I am a developer with experience in mobile application and backend development, 
 ## 📊 GitHub Stats
 
 <div align="center" >
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenjaminHung8405&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px" width="500px" />
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=BenjaminHung8405&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=BenjaminHung8405&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
  
   
 </div>
