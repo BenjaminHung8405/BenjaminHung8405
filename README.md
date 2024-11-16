@@ -68,4 +68,51 @@ I am always open to interesting conversations and collaboration opportunities. F
 - 🌐 Facebook: [facebook.com/phihung.8405](https://www.facebook.com/phihung.8405)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-186-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+🌆 Daytime                16 commits          █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+🌃 Evening                60 commits          ███████████████████░░░░░░   75.95 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+JavaScript               0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+BEBKs-api                0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Dart                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TSQL                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/BenjaminHung8405/BenjaminHung8405/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/11/2024 12:46:01 UTC
 <!--END_SECTION:waka-->
