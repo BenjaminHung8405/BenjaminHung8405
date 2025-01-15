@@ -86,20 +86,16 @@ I am always open to interesting conversations and collaboration opportunities. F
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Dart                     34 mins             ██████████████████░░░░░░░   73.93 % 
-Groovy                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Java Properties          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Closphere                44 mins             ████████████████████████░   95.31 % 
-bebks-ebook-project      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -118,5 +114,5 @@ TSQL                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenjaminHung8405/BenjaminHung8405/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2025 18:26:29 UTC
+ Last Updated on 15/01/2025 20:20:43 UTC
 <!--END_SECTION:waka-->
