@@ -86,16 +86,19 @@ I am always open to interesting conversations and collaboration opportunities. F
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               0 secs              ███████████████████░░░░░░   77.79 % 
+HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ebooks-api               0 secs              ███████████████████░░░░░░   77.79 % 
+agu_notebook             0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -115,5 +118,5 @@ TSQL                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenjaminHung8405/BenjaminHung8405/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2025 18:31:21 UTC
+ Last Updated on 30/04/2025 20:24:53 UTC
 <!--END_SECTION:waka-->
