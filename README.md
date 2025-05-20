@@ -20,15 +20,14 @@
 
 I am a developer with experience in mobile application and backend development, along with knowledge in network security. I am always looking for opportunities to learn and enhance my skills.
 
-- 🌱 Currently learning: Flutter, Cyber Security, Backend Development
+- 🌱 Currently learning: Flutter, Backend Development
 - 👯 Collaborating on: Recipe management project
-- 💬 Ask me about: Mobile Development, Network Security, Backend Development
+- 💬 Ask me about: Mobile Development, Backend Development
 
 ## 🛡️ My Specializations
 
 - Mobile Application Development
 - Backend Development
-- Network Security
 - Software Development
 - Database Optimization
 
