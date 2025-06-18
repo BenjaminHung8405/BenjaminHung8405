@@ -85,21 +85,16 @@ I am always open to interesting conversations and collaboration opportunities. F
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C++                      2 hrs 57 mins       ████████████████████░░░░░   80.04 % 
-Python                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Objective-C              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-emo_pet                  3 hrs 16 mins       ██████████████████████░░░   88.72 % 
-Arduino_Projects         25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -119,5 +114,5 @@ TSQL                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenjaminHung8405/BenjaminHung8405/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2025 18:33:24 UTC
+ Last Updated on 18/06/2025 20:27:21 UTC
 <!--END_SECTION:waka-->
