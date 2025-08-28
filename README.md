@@ -67,7 +67,7 @@ I am always open to interesting conversations and collaboration opportunities. F
 - 🌐 Facebook: [facebook.com/phihung.8405](https://www.facebook.com/phihung.8405)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **I'm an Early 🐤** 
 
@@ -123,5 +123,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenjaminHung8405/BenjaminHung8405/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 01:47:08 UTC
+ Last Updated on 28/08/2025 03:05:12 UTC
 <!--END_SECTION:waka-->
