@@ -82,7 +82,7 @@ I am always open to interesting conversations and collaboration opportunities. F
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -137,5 +137,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenjaminHung8405/BenjaminHung8405/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2025 01:41:36 UTC
+ Last Updated on 12/09/2025 02:57:32 UTC
 <!--END_SECTION:waka-->
