@@ -100,8 +100,9 @@ I am always open to interesting conversations and collaboration opportunities. F
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Dart                     3 hrs 4 mins        █████████████████████████   99.87 % 
+Dart                     3 hrs 4 mins        █████████████████████████   99.85 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
@@ -132,5 +133,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenjaminHung8405/BenjaminHung8405/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2026 18:39:54 UTC
+ Last Updated on 07/01/2026 20:31:13 UTC
 <!--END_SECTION:waka-->
