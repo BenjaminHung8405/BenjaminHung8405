@@ -82,7 +82,7 @@ I am always open to interesting conversations and collaboration opportunities. F
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -100,16 +100,20 @@ I am always open to interesting conversations and collaboration opportunities. F
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     3 hrs 59 mins       █████████████████████████   99.50 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fuel-mobile-app          3 hrs 57 mins       █████████████████████████   98.90 % 
+Flutter                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+MitelAI                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -129,5 +133,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/BenjaminHung8405/BenjaminHung8405/main/assets/bar_graph.png)
 
 
- Last Updated on 17/01/2026 18:35:01 UTC
+ Last Updated on 17/01/2026 20:27:46 UTC
 <!--END_SECTION:waka-->
